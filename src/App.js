@@ -5,7 +5,7 @@ import { Route, Switch } from "react-router-dom";
 import Products from "./components/Products";
 
 export const config = {
-  endpoint: `https://qkart-frontend-4ye3.onrender.com/`,
+  endpoint: `https://qkart-frontend-4ye3.onrender.com/api/v1`,
 };
 
 function App() {
