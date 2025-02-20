@@ -108,9 +108,8 @@ QKart is a modern e-commerce application built with React, offering a seamless s
 
 ### Responsive Design
 
-<div style="display: flex; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/milindkusahu/QKART_FRONTEND_V2/refs/heads/main/public/demo/devices-view.png" alt="Devices View" width="60%"/>
-</div>
+![Devices View](https://raw.githubusercontent.com/milindkusahu/QKART_FRONTEND_V2/refs/heads/main/public/demo/devices-view.png)
+
 <details>
 <summary>Responsive Features</summary>
 - Desktop and mobile layouts
