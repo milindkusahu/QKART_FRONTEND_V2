@@ -321,7 +321,7 @@ const Checkout = () => {
 
   return (
     <>
-      <Header />
+      <Header cartItems={items} />
       <Grid container>
         <Grid item xs={12} md={9}>
           <Box className="shipping-container" minHeight="100vh">

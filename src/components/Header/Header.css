@@ -8,6 +8,10 @@
   background: #ffffff;
 }
 
+.profile-image {
+  margin-left: 1.5rem !important;
+}
+
 .username-text {
   display: none;
 }

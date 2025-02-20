@@ -312,7 +312,7 @@ const Products = () => {
 
   return (
     <div>
-      <Header hasHiddenAuthButtons={false}>
+      <Header hasHiddenAuthButtons={false} cartItems={cartData}>
         <TextField
           className="search-desktop"
           size="small"
